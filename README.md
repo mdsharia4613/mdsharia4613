@@ -20,7 +20,7 @@ I’m constantly improving my skills and aiming to become a professional **Full 
 I enjoy learning new technologies, solving problems, and collaborating on interesting projects.
 
 
-Skills:   JS / HTML / CSS
+Skills:   React / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning java Script 
