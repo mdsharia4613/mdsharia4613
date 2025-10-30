@@ -1,4 +1,4 @@
-![Frontend Developer Banner] https://i.ibb.co.com/JwxW0fXV/web-development-coding-programming-internet-technology-business-concept-web-development-coding-progr.webp
+![Frontend Developer Banner](https://i.ibb.co/JwxW0fXV/web-development-coding-programming-internet-technology-business-concept-web-development-coding-progr.webp)
 
 # Hi there 👋, I'm Sharia Haque
 ## Frontend Developer
@@ -53,9 +53,9 @@ I’m constantly improving my skills and aiming to become a professional **Full 
 ---
 
 ## 📈 GitHub Stats
-![Sharia's GitHub stats](https://github-readme-stats.vercel.app/api?mdsharia4613&show_icons=true&theme=radical)
+![Sharia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsharia4613&show_icons=true&theme=radical)
 
 ---
 
 ## 👁 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mdsharia4613/count.svg)
