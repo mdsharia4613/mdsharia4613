@@ -1,5 +1,6 @@
 ![Frontend Developer Banner](https://i.ibb.co/JwxW0fXV/web-development-coding-programming-internet-technology-business-concept-web-development-coding-progr.webp)
 
+<img src="https://i.ibb.co/JwxW0fXV/web-development-coding-programming-internet-technology-business-concept-web-development-coding-progr.webp" alt="Frontend Developer" width="100%">
 # Hi there 👋, I'm Sharia Haque
 ## Frontend Developer
 
