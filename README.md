@@ -43,7 +43,7 @@ I’m constantly improving my skills and aiming to become a professional **Full 
 ---
 
 ## 👯 Looking to Collaborate
-- Open for collaboration on **Frontend** or **Full-Stack** projects  
+- Open for collaboration on **Frontend** projects  
 
 ---
 
