@@ -1,33 +1,61 @@
-![Fontend Developer] https://i.ibb.co.com/JwxW0fXV/web-development-coding-programming-internet-technology-business-concept-web-development-coding-progr.webp
-## Hi there 👋, I'm Sharia Haque
-## Fontend Developer
+![Frontend Developer Banner] https://i.ibb.co.com/JwxW0fXV/web-development-coding-programming-internet-technology-business-concept-web-development-coding-progr.webp
+
+# Hi there 👋, I'm Sharia Haque
+## Frontend Developer
+
+---
 
 ## 👋 About Me
+Hi, I'm **Sharia**, a passionate **Frontend Developer** who loves turning creative ideas into modern, responsive, and user-friendly websites. I enjoy learning new technologies, solving problems, and collaborating on interesting projects.
 
-Hi, I'm **Sharia**, a passionate **Front-End Developer** who loves turning creative ideas into modern, responsive, and user-friendly websites.
+---
 
-### 🧠 Skills:
-- **HTML5**, **CSS3**, **JavaScript (ES6+)**
-- Responsive Web Design
-- Clean UI with Tailwind CSS / Bootstrap
-- Basic knowledge of Git & GitHub
+## 🧠 Skills
+### 💻 Languages & Frameworks
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 🚀 Goals:
+### 🛠 Tools & Platforms
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Goals
 I’m constantly improving my skills and aiming to become a professional **Full Stack Developer** in the future.
 
-#### 💬 Let's Connect:
-I enjoy learning new technologies, solving problems, and collaborating on interesting projects.
+---
 
+## 🌱 Currently Learning
+- **Advanced JavaScript**  
+- **React ecosystem & Next.js**
 
-Skills:   React / JS / HTML / CSS
+---
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning java Script 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
+## 🔭 Currently Working On
+- Improving my GitHub profile & portfolio projects  
+- Building modern web applications using React & Tailwind CSS  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mdsharia4613)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/md.sharia.368567/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mdsharia075//)  
+## 👯 Looking to Collaborate
+- Open for collaboration on **Frontend** or **Full-Stack** projects  
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+---
 
+## 💬 Ask Me About
+- **Web Development**, **Frontend Technologies**, **UI/UX Design**  
+
+---
+
+## 📈 GitHub Stats
+![Sharia's GitHub stats](https://github-readme-stats.vercel.app/api?mdsharia4613&show_icons=true&theme=radical)
+
+---
+
+## 👁 Visitor Counter
+![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
