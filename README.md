@@ -60,10 +60,8 @@ I’m constantly improving my skills and aiming to become a professional **Full 
 
 ---
 
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdsharia4613&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsharia4613&show_icons=true&theme=tokyonight)
 
----
 
 ## 👁 Visitor Counter
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mdsharia4613.mdsharia4613)
