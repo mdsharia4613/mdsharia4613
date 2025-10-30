@@ -55,6 +55,11 @@ I’m constantly improving my skills and aiming to become a professional **Full 
 ## 📈 GitHub Stats
 ![Sharia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdsharia4613&show_icons=true&theme=radical)
 
+**HTML** ![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen)  
+**CSS** ![CSS](https://img.shields.io/badge/CSS-85%25-blue)  
+**JavaScript** ![JS](https://img.shields.io/badge/JS-75%25-yellow)
+
+
 ---
 
 ## 👁 Visitor Counter
