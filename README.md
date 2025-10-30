@@ -1,5 +1,4 @@
-![Fontend Developer](https://scontent.fdac68-1.fna.fbcdn.net/v/t39.30808-6/475291207_1143110793938371_5773031798919646391_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGByHs3FroXQys0rb-mbkc5FkIGhV6mjfQWQgaFXqaN9LRg5caQyOb4xCpBtK0pyXWj1h38KTKknjcXlzLsn5Cg&_nc_ohc=F8pekiliU0kQ7kNvwHP52cN&_nc_oc=AdnGvffaxlpM8lmeu062omWJG_v_eKlqnjqpSj9250yG2qV5HrQrvVM_0-77zBEV1YI&_nc_zt=23&_nc_ht=scontent.fdac68-1.fna&_nc_gid=2if0kZnIydto2dOiNtyrmw&oh=00_AfcVE_9TSb7ckwW_12n28NwsiDyO7z4TCUY5kEO7b-mm3g&oe=68E660E8)
-
+![Fontend Developer] https://i.ibb.co.com/JwxW0fXV/web-development-coding-programming-internet-technology-business-concept-web-development-coding-progr.webp
 ## Hi there 👋, I'm Sharia Haque
 ## Fontend Developer
 
