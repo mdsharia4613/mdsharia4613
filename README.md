@@ -58,4 +58,6 @@ I’m constantly improving my skills and aiming to become a professional **Full 
 ---
 
 ## 👁 Visitor Counter
-![Visitor Count](https://profile-counter.glitch.me/mdsharia4613/count.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mdsharia4613.mdsharia4613)
+
+
