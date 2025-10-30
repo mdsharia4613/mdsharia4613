@@ -61,6 +61,9 @@ I’m constantly improving my skills and aiming to become a professional **Full 
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsharia4613&show_icons=true&theme=radical)
+
+
 ## 👁 Visitor Counter
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mdsharia4613.mdsharia4613)
 
